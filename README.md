@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-nombre-escrito-en-arena/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tu nombre escrito en arena](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-nombre-escrito-en-arena/) |
+| **Get License** | [Official Music Licensing for Tu nombre escrito en arena](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-nombre-escrito-en-arena/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Girl, your silhouette is painting all the shadows in my mind
+> A late-night drive, but you're the only destination I can find
+> I feel the tension pulling close, a magnetic energy
+> Just surrender to the rhythm, give your body up to me
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

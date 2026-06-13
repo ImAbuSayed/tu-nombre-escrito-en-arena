@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu nombre escrito en arena
+
+This log tracks the cryptographic history and versioning for the song **Tu nombre escrito en arena** (tu-nombre-escrito-en-arena).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:26:40.412315 | `v1` | `ca904c0cd4d56f5af40931b2c0ae9952f65ab776f957010d0ccd255cde31bb82` | `c80038dd625bf6a9fd896192249a46547d800da78ef45426dfa4544214882a75` | `2026-06-14_tu-nombre-escrito-en-arena-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
